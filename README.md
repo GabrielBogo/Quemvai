@@ -1,6 +1,8 @@
 # Quemvai
 www.quemvai.com
 
-Se você está interessado na tecnologia, nos avise: contato@quemvai.com
+Olhe nosso material descritivo, em pdf.
+Se você está interessado em nossa história ou na tecnologia, nos avise: contato@quemvai.com
 
-If you are interested in the technology, please let us know: contato@quemvai.com.
+Please, take a look at our pdf deck.
+If you are interested in our story or in the technology, please let us know: contato@quemvai.com.
